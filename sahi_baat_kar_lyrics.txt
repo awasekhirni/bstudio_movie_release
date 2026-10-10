@@ -37,3 +37,6 @@ sidha hisaab tu karle .
 
 [chal maaf kar, ye kachra saaf kar, 
 isse insaaf kar (2)]2 sahi baat kar
+
+
+lyrics take one -- song generation after 10 takes, pronunciation gone a bit weird.
